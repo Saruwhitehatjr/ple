@@ -3,7 +3,7 @@ class Mango
 constructor(x,y,r)
 {
 var options={
-isStatic:false,
+isStatic:true,
 restitution:0,
 friction:1
 }
